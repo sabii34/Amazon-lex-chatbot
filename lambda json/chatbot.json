@@ -1,0 +1,9 @@
+{
+  "inputTranscript": "Hello",
+  "sessionState": {
+    "intent": {
+      "name": "TestIntent",
+      "state": "InProgress"
+    }
+  }
+}
